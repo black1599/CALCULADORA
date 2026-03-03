@@ -4,8 +4,8 @@ class Calculadora:
         Devuelve la suma de a y b.
 
         >>> c = Calculadora()
-        >>> c.sumar(2, 3)
-        5
+        >>> c.sumar(3, 3)
+        6
         >>> c.sumar(-1, 1)
         0
         """
