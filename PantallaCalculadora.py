@@ -2,7 +2,6 @@ from PySide6 import QtWidgets
 
 from pantalla import Ui_MainWindow
 
-
 class PantallaCalculadora(QtWidgets.QMainWindow, Ui_MainWindow):
     "Clase básica que carga la interfaz generada por QtDesigner"
 
